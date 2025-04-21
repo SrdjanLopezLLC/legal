@@ -22,4 +22,4 @@ SL LLC reserves the right to terminate or suspend your license if you breach any
 
 ---
 
-Last updated: April 20, 2025
+_Last updated: April 20, 2025_
