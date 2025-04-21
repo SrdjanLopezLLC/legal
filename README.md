@@ -14,10 +14,10 @@ This repository includes the legal documents that govern the use of SL LLC's pro
 
 | Document | Description |
 |:---------|:------------|
-| [Terms-of-Service.md](legal/Terms-of-Service.md) | Official Terms of Service for all SL LLC services and brands. |
-| [Privacy-Policy.md](legal/Privacy-Policy.md) | Explanation of how SL LLC collects, uses, and protects customer and user information. |
-| [EULA.md](legal/EULA.md) | End User License Agreement covering media, software, and merchandise licensing. |
-| [LICENSE.md](legal/LICENSE.md) | Public licensing terms (Creative Commons BY-NC 4.0) and proprietary rights notice. |
+| [Terms-of-Service.md](Terms-of-Service.md) | Official Terms of Service for all SL LLC services and brands. |
+| [Privacy-Policy.md](Privacy-Policy.md) | Explanation of how SL LLC collects, uses, and protects customer and user information. |
+| [EULA.md](EULA.md) | End User License Agreement covering media, software, and merchandise licensing. |
+| [LICENSE.md](LICENSE.md) | Public licensing terms (Creative Commons BY-NC 4.0) and proprietary rights notice. |
 
 ---
 
