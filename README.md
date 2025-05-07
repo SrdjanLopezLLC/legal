@@ -5,7 +5,7 @@ Welcome to the official legal documentation repository for **Srdjan Lopez LLC (S
 This repository includes the legal documents that govern the use of SL LLC's products, services, media, software, and merchandise, across all current and future brands including:
 
 - **AutoLens Studio** (Luxury Photography Services)
-- **Trinix** (Software-as-a-Service for Discord bots)
+- **Trinix AI** (Software-as-a-Service for Discord bots)
 - **SL LLC Clothing Line** (Luxury streetwear)
 
 ---
