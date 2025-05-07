@@ -4,7 +4,7 @@
 Srdjan Lopez LLC ("SL LLC," "we," "us," "our") grants you a limited, non-exclusive, non-transferable license to access and use its software, media, products, and services for personal, non-commercial purposes only.
 
 This includes but is not limited to:
-- Software services (Trinix Discord Bot and associated features)
+- Software services (Trinix AI Discord Bot and associated features)
 - Photography and media products (AutoLens Studio)
 - Clothing, accessories, and merchandise (SL LLC Clothing Line)
 
