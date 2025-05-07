@@ -12,12 +12,12 @@ Under the following terms:
 - **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial:** You may not use the material for commercial purposes.
 
-**Commercial use, resale, hosting, sublicensing, or significant modification of SL LLC proprietary content (such as Trinix software, AutoLens media, or SL LLC clothing designs) is strictly prohibited without explicit written permission.**
+**Commercial use, resale, hosting, sublicensing, or significant modification of SL LLC proprietary content (such as Trinix AI software, AutoLens media, or SL LLC clothing designs) is strictly prohibited without explicit written permission.**
 
 ---
 
 ## This License Does Not Apply To:
-- Trinix proprietary software (Discord bot services and source code).
+- Trinix AI proprietary software (Discord bot services and source code).
 - AutoLens Studio client media (photographs, videos).
 - SL LLC clothing designs and physical merchandise.
 
