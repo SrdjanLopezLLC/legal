@@ -1,12 +1,12 @@
 # Privacy Policy
 
 ## 2.1 Overview
-Srdjan Lopez LLC ("SL LLC," "we," "us," "our") values your privacy. This policy explains how we collect, use, and protect your information across all services, including AutoLens Studio, Trinix, and our clothing and merchandise lines.
+Srdjan Lopez LLC ("SL LLC," "we," "us," "our") values your privacy. This policy explains how we collect, use, and protect your information across all services, including AutoLens Studio, Trinix AI, and our clothing and merchandise lines.
 
 ## 2.2 Data Collection
 We collect only the minimal information necessary to operate our services:
 - **AutoLens Studio:** Booking details, client communication.
-- **Trinix:** Discord User IDs, server configuration settings.
+- **Trinix AI:** Discord User IDs, server configuration settings.
 - **SL LLC Clothing and Merchandise:** Order details, shipping information, customer contact information.
 
 ## 2.3 Use of Information
