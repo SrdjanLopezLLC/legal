@@ -1,19 +1,19 @@
 # Terms of Service (TOS)
 
 ## 1.1 Acceptance of Terms
-By accessing or using any services, websites, media, software, or products provided by Srdjan Lopez LLC ("SL LLC," "we," "us," "our"), including AutoLens Studio, Trinix, and any future DBAs, you agree to be bound by these Terms of Service.
+By accessing or using any services, websites, media, software, or products provided by Srdjan Lopez LLC ("SL LLC," "we," "us," "our"), including AutoLens Studio, Trinix AI, and any future DBAs, you agree to be bound by these Terms of Service.
 
 ## 1.2 Scope
 These Terms apply to all services provided under SL LLC, including but not limited to:
 - Photography and media services (AutoLens Studio)
-- Software-as-a-Service (SaaS) products (Trinix)
+- Software-as-a-Service (SaaS) products (Trinix AI)
 - Future brands, apps, or services
 
 ## 1.3 Modifications
 We may update these Terms at any time. Updates will be posted publicly and your continued use constitutes acceptance.
 
 ## 1.4 Service-Specific Terms
-Some services (e.g., Trinix) may have additional service-specific terms and licensing requirements.
+Some services (e.g., Trinix AI) may have additional service-specific terms and licensing requirements.
 
 ## 1.5 User Responsibilities
 - You agree to use our services lawfully.
