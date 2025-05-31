@@ -18,6 +18,7 @@ This repository includes the legal documents that govern the use of SL LLC's pro
 | [Privacy-Policy.md](Privacy-Policy.md) | Explanation of how SL LLC collects, uses, and protects customer and user information. |
 | [EULA.md](EULA.md) | End User License Agreement covering media, software, and merchandise licensing. |
 | [LICENSE.md](LICENSE.md) | Public licensing terms (Creative Commons BY-NC 4.0) and proprietary rights notice. |
+| [Return-Policy.md](Return-Policy.md) | Return, refund, and exchange policy for SL LLC's custom-made products fulfilled via Printful. |
 
 ---
 
@@ -30,4 +31,4 @@ For questions regarding these legal documents, please reach out to:
 
 ---
 
-_Last updated: April 20, 2025._
+_Last updated: May 30, 2025._
